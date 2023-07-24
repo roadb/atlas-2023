@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Chonny Jash Fan Server",
+	"description": "Fans of the musician Chonny Jash, most well known for his Gothic Whore album as well as Chonny's Charming Chaos Compendium.",
+	"links": {
+		"subreddit": [
+			"chonnyjash"
+		]
+	},
+	"path": {
+		"177": [
+			[
+				115,
+				33
+			],
+			[
+				115,
+				65
+			],
+			[
+				84,
+				65
+			],
+			[
+				84,
+				33
+			]
+		]
+	},
+	"center": {
+		"177": [
+			100,
+			49
+		]
+	}
+}
